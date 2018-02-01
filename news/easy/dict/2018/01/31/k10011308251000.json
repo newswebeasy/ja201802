@@ -1,0 +1,114 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "噴火"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>地下</rb><rt>ちか</rt></ruby>のマグマが、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>にふき<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>山</rb><rt>やま</rt></ruby>となっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "火山"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>などのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>頂上</rb><rt>ちょうじょう</rt></ruby>。",
+          "hyouki": [
+            "頂"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がって、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。ふくれて<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "膨らむ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>評価</rb><rt>ひょうか</rt></ruby>をするときの<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。<ruby><rb>水準</rb><rt>すいじゅん</rt></ruby>。",
+          "hyouki": [
+            "レベル"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "くつに<ruby><rb>取</rb><rt>と</rt></ruby>りつけて、<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>板</rb><rt>いた</rt></ruby>。",
+          "hyouki": [
+            "スキー"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」を<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。",
+          "hyouki": [
+            "スキー"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ばしょ。",
+          "hyouki": [
+            "場"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>などの<ruby><rb>上</rb><rt>あ</rt></ruby>げ<ruby><rb>下</rb><rt>お</rt></ruby>ろしに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなエレベーター。<ruby><rb>昇降機</rb><rt>しょうこうき</rt></ruby>。",
+          "hyouki": [
+            "リフト"
+          ]
+        },
+        {
+          "def": "スキー<ruby><rb>場</rb><rt>じょう</rt></ruby>などで、<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "リフト"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>霧</rb><rt>きり</rt></ruby>が<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>幹</rb><rt>みき</rt></ruby>や<ruby><rb>枝</rb><rt>えだ</rt></ruby><ruby><rb>一面</rb><rt>いちめん</rt></ruby>に<ruby><rb>白</rb><rt>しろ</rt></ruby>くこおりついたもの。",
+          "hyouki": [
+            "樹氷"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>観光</rb><rt>かんこう</rt></ruby>やスポーツなどのために、<ruby><rb>団体</rb><rt>だんたい</rt></ruby>で<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>。",
+          "hyouki": [
+            "ツアー"
+          ]
+        }
+      ]
+    }
+  }
+}

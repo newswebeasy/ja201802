@@ -1,0 +1,261 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "くつに<ruby><rb>取</rb><rt>と</rt></ruby>りつけて、<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>板</rb><rt>いた</rt></ruby>。",
+          "hyouki": [
+            "スキー"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」を<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。",
+          "hyouki": [
+            "スキー"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "わざや<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を、<ruby><rb>比</rb><rt>くら</rt></ruby>べ<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>特</rb><rt>とく</rt></ruby>にスポーツで、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>うこと。",
+          "hyouki": [
+            "競技"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>底</rb><rt>そこ</rt></ruby>に<ruby><rb>金具</rb><rt>かなぐ</rt></ruby>の<ruby><rb>刃</rb><rt>は</rt></ruby>がついているくつをはいて、<ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。アイススケート。また、そのためのくつ。",
+          "hyouki": [
+            "スケート"
+          ]
+        },
+        {
+          "def": "「ローラースケート」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "スケート"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "オリンピック<ruby><rb>大会</rb><rt>たいかい</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり、オリンピック<ruby><rb>精神</rb><rt>せいしん</rt></ruby>を<ruby><rb>広</rb><rt>ひろ</rt></ruby>めたりする<ruby><rb>機関</rb><rt>きかん</rt></ruby>。",
+          "hyouki": [
+            "IOC"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "会長"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>運</rb><rt>うん</rt></ruby>がいいこと。<ruby><rb>幸</rb><rt>しあわ</rt></ruby>せ。",
+          "hyouki": [
+            "幸運",
+            "・好運"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。",
+          "hyouki": [
+            "平和"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。",
+          "hyouki": [
+            "平和"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>寺</rb><rt>てら</rt></ruby>や<ruby><rb>公園</rb><rt>こうえん</rt></ruby>でよく<ruby><rb>見</rb><rt>み</rt></ruby>かける<ruby><rb>中形</rb><rt>ちゅうがた</rt></ruby>の<ruby><rb>鳥</rb><rt>とり</rt></ruby>。<ruby><rb>目</rb><rt>め</rt></ruby>が<ruby><rb>丸</rb><rt>まる</rt></ruby>く、<ruby><rb>胸</rb><rt>むね</rt></ruby>をつき<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>歩</rb><rt>ある</rt></ruby>く。<ruby><rb>遠</rb><rt>とお</rt></ruby>くからでも<ruby><rb>巣</rb><rt>す</rt></ruby>に<ruby><rb>帰</rb><rt>かえ</rt></ruby>る<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>がある。<ruby><rb>平和</rb><rt>へいわ</rt></ruby>のシンボルとされる。",
+          "hyouki": [
+            "鳩"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>やゴムのふくろの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>空気</rb><rt>くうき</rt></ruby>などを<ruby><rb>入</rb><rt>い</rt></ruby>れてふくらませ<ruby><rb>飛</rb><rt>と</rt></ruby>ばして<ruby><rb>遊</rb><rt>あそ</rt></ruby>ぶおもちゃ。",
+          "hyouki": [
+            "風船"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>飛</rb><rt>と</rt></ruby>ぶようにする。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>散</rb><rt>ち</rt></ruby>らす。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>走</rb><rt>はし</rt></ruby>らせる。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>間</rb><rt>あいだ</rt></ruby>をぬいて、<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>言</rb><rt>い</rt></ruby>いふらす。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく…する。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>村</rb><rt>むら</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>し、<ruby><rb>村</rb><rt>むら</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "村長"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "<ruby><rb>台</rb><rt>だい</rt></ruby>の<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>からラケットで<ruby><rb>球</rb><rt>たま</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ピンポン。",
+          "hyouki": [
+            "卓球"
+          ]
+        }
+      ],
+      "0015": [
+        {
+          "def": "<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "おかね。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」のように、だいじな。りっぱな。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "かなもの。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "<ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。",
+          "hyouki": [
+            "金"
+          ]
+        }
+      ],
+      "0016": [
+        {
+          "def": "<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。",
+          "hyouki": [
+            "メダル"
+          ]
+        }
+      ],
+      "0017": [
+        {
+          "def": "<ruby><rb>緊張</rb><rt>きんちょう</rt></ruby>しないで、のんびりと<ruby><rb>楽</rb><rt>らく</rt></ruby>にすること。",
+          "hyouki": [
+            "リラックス"
+          ]
+        }
+      ],
+      "0018": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>結果</rb><rt>けっか</rt></ruby>。できばえ。",
+          "hyouki": [
+            "成績"
+          ]
+        },
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>での<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>のできぐあい。",
+          "hyouki": [
+            "成績"
+          ]
+        }
+      ]
+    }
+  }
+}

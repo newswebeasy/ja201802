@@ -1,0 +1,114 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "きっぷ。<ruby><rb>券</rb><rt>けん</rt></ruby>。<ruby><rb>入場券</rb><rt>にゅうじょうけん</rt></ruby>・<ruby><rb>乗車券</rb><rt>じょうしゃけん</rt></ruby>・<ruby><rb>食券</rb><rt>しょっけん</rt></ruby>など。",
+          "hyouki": [
+            "チケット"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "地域"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "会長"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。",
+          "hyouki": [
+            "無料"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>始</rb><rt>はじ</rt></ruby>めること。",
+          "hyouki": [
+            "開会"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>羊毛</rb><rt>ようもう</rt></ruby>などで<ruby><rb>織</rb><rt>お</rt></ruby>った<ruby><rb>厚</rb><rt>あつ</rt></ruby>い<ruby><rb>織物</rb><rt>おりもの</rt></ruby>。",
+          "hyouki": [
+            "毛布"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>分</rb><rt>わ</rt></ruby>けて、わたす。",
+          "hyouki": [
+            "配る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>行</rb><rt>い</rt></ruby>きわたらせる。",
+          "hyouki": [
+            "配る"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>の<ruby><rb>手助</rb><rt>てだす</rt></ruby>けや、<ruby><rb>病人</rb><rt>びょうにん</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "看護師"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "フィルムを<ruby><rb>使</rb><rt>つか</rt></ruby>わないで、<ruby><rb>写</rb><rt>うつ</rt></ruby>したものを<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>えて、<ruby><rb>記録</rb><rt>きろく</rt></ruby>できるようにしたカメラ。デジカメ。",
+          "hyouki": [
+            "デジタルカメラ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>量</rb><rt>りょう</rt></ruby>。お<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>。",
+          "hyouki": [
+            "金額"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ちょうどよいように、ととのえること。",
+          "hyouki": [
+            "調節"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ガラスのような<ruby><rb>透明</rb><rt>とうめい</rt></ruby>なものの、<ruby><rb>片面</rb><rt>かためん</rt></ruby>または<ruby><rb>両面</rb><rt>りょうめん</rt></ruby>を<ruby><rb>丸</rb><rt>まる</rt></ruby>くして<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。<ruby><rb>凸</rb><rt>とつ</rt></ruby>レンズと<ruby><rb>凹</rb><rt>おう</rt></ruby>レンズがある。<ruby><rb>凸</rb><rt>とつ</rt></ruby>レンズは、<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>厚</rb><rt>あつ</rt></ruby>くて、<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>大</rb><rt>おお</rt></ruby>きく<ruby><rb>見</rb><rt>み</rt></ruby>せ、<ruby><rb>凹</rb><rt>おう</rt></ruby>レンズは、<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>がうすくて、<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>小</rb><rt>ちい</rt></ruby>さく<ruby><rb>見</rb><rt>み</rt></ruby>せる。<ruby><rb>眼鏡</rb><rt>めがね</rt></ruby>・カメラ・<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "レンズ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>りかえること。<ruby><rb>取</rb><rt>と</rt></ruby>りかわすこと。",
+          "hyouki": [
+            "交換"
+          ]
+        }
+      ]
+    }
+  }
+}

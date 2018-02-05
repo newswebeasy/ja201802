@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011311291000",
+  "news_prearranged_time": "2018-02-05 11:30:00",
+  "title": "デジタルカメラが売れる　きれいな写真をみんなに見せたい",
+  "title_with_ruby": "デジタルカメラが<ruby>売<rt>う</rt></ruby>れる　きれいな<ruby>写真<rt>しゃしん</rt></ruby>をみんなに<ruby>見<rt>み</rt></ruby>せたい",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>デジタルカメラ</a>は、スマートフォンのカメラがよくなっているため、<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>売<rt>う</rt></ruby>れ</a>なくなっていました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180201/../20180201/K10011311291_1802011259_1802011315_01_02.jpg",
+  "news_web_movie_uri": "k10011311291_201802011718_201802011728.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011311291000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011311291000/k10011311291000.html"
+}

@@ -1,0 +1,52 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>成長</rb><rt>せいちょう</rt></ruby>して、<ruby><rb>社会的</rb><rt>しゃかいてき</rt></ruby>に<ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になること。ふつう<ruby><rb>満</rb><rt>まん</rt></ruby><ruby><rb>二十歳</rb><rt>にじっさい</rt></ruby><ruby><rb>以上</rb><rt>いじょう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>大人</rb><rt>おとな</rt></ruby>。",
+          "hyouki": [
+            "成人"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ラジオ・テレビなどで<ruby><rb>活躍</rb><rt>かつやく</rt></ruby>する<ruby><rb>芸能人</rb><rt>げいのうじん</rt></ruby>。",
+          "hyouki": [
+            "タレント"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。",
+          "hyouki": [
+            "無料"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>社会</rb><rt>しゃかい</rt></ruby>のために、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>から<ruby><rb>進</rb><rt>すす</rt></ruby>んで、<ruby><rb>無料</rb><rt>むりょう</rt></ruby>で<ruby><rb>奉仕活動</rb><rt>ほうしかつどう</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ボランティア"
+          ]
+        }
+      ]
+    }
+  }
+}

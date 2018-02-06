@@ -1,0 +1,52 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。",
+          "hyouki": [
+            "凍る"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。",
+          "hyouki": [
+            "凍る"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。",
+          "hyouki": [
+            "氷"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>中</rb><rt>なか</rt></ruby>からふくらんで<ruby><rb>高</rb><rt>たか</rt></ruby>くなる。",
+          "hyouki": [
+            "盛り上がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>まる。さかんになる。",
+          "hyouki": [
+            "盛り上がる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>知恵</rb><rt>ちえ</rt></ruby>では<ruby><rb>考</rb><rt>かんが</rt></ruby>えられない、ふしぎな<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つと<ruby><rb>信</rb><rt>しん</rt></ruby>じられているもの。",
+          "hyouki": [
+            "神"
+          ]
+        }
+      ]
+    }
+  }
+}

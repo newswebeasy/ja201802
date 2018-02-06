@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。",
+          "hyouki": [
+            "国際連合"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>でする<ruby><rb>短</rb><rt>みじか</rt></ruby>い<ruby><rb>話</rb><rt>はなし</rt></ruby>や<ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>。",
+          "hyouki": [
+            "スピーチ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>番組</rb><rt>ばんぐみ</rt></ruby>。<ruby><rb>予定表</rb><rt>よていひょう</rt></ruby>。",
+          "hyouki": [
+            "プログラム"
+          ]
+        },
+        {
+          "def": "コンピューターに<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をさせるための<ruby><rb>手順</rb><rt>てじゅん</rt></ruby>や<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>をコンピューター<ruby><rb>用</rb><rt>よう</rt></ruby>のことばで<ruby><rb>書</rb><rt>か</rt></ruby>くこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>いたもの。",
+          "hyouki": [
+            "プログラム"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。",
+          "hyouki": [
+            "ゲーム"
+          ]
+        },
+        {
+          "def": "<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "ゲーム"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>量</rb><rt>りょう</rt></ruby>や<ruby><rb>時刻</rb><rt>じこく</rt></ruby>などを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。",
+          "hyouki": [
+            "デジタル"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。",
+          "hyouki": [
+            "参加"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>生</rb><rt>う</rt></ruby>まれてから<ruby><rb>今</rb><rt>いま</rt></ruby>までの<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。とし。",
+          "hyouki": [
+            "年齢"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "あるものごとに、<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>動</rb><rt>うご</rt></ruby>かされること。",
+          "hyouki": [
+            "感動"
+          ]
+        }
+      ]
+    }
+  }
+}

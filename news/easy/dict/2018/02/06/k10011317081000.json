@@ -1,0 +1,90 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために、<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby><ruby><rb>後</rb><rt>ご</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>防衛組織</rb><rt>ぼうえいそしき</rt></ruby>。<ruby><rb>陸上</rb><rt>りくじょう</rt></ruby>・<ruby><rb>海上</rb><rt>かいじょう</rt></ruby>・<ruby><rb>航空</rb><rt>こうくう</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。",
+          "hyouki": [
+            "自衛隊"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>大</rb><rt>おお</rt></ruby>きなプロペラが、<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>りつけてあり、まっすぐ<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>飛</rb><rt>と</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>がったり、<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>にとまったりできる<ruby><rb>航空機</rb><rt>こうくうき</rt></ruby>。ヘリ。",
+          "hyouki": [
+            "ヘリコプター"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>。",
+          "hyouki": [
+            "遺体"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>防衛</rb><rt>ぼうえい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>ち、<ruby><rb>自衛隊</rb><rt>じえいたい</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>仕切</rb><rt>しき</rt></ruby>る<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "防衛省"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>通</rb><rt>かよ</rt></ruby>っている<ruby><rb>子</rb><rt>こ</rt></ruby>ども。",
+          "hyouki": [
+            "小学生"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "うしろ。",
+          "hyouki": [
+            "後"
+          ]
+        },
+        {
+          "def": "のち。あと。",
+          "hyouki": [
+            "後"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>軸</rb><rt>じく</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>る、<ruby><rb>回転羽根</rb><rt>かいてんばね</rt></ruby>。<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>や<ruby><rb>船</rb><rt>ふね</rt></ruby>などを<ruby><rb>動</rb><rt>うご</rt></ruby>かすもの。",
+          "hyouki": [
+            "プロペラ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てている、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>の<ruby><rb>品</rb><rt>しな</rt></ruby>。<ruby><rb>部分品</rb><rt>ぶぶんひん</rt></ruby>。",
+          "hyouki": [
+            "部品"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かい。",
+          "hyouki": [
+            "詳しい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。",
+          "hyouki": [
+            "詳しい"
+          ]
+        }
+      ]
+    }
+  }
+}

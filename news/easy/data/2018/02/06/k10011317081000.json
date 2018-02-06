@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011317081000",
+  "news_prearranged_time": "2018-02-06 17:30:00",
+  "title": "佐賀県で自衛隊のヘリコプターが家に落ちる",
+  "title_with_ruby": "<ruby>佐賀県<rt>さがけん</rt></ruby>で<ruby>自衛隊<rt>じえいたい</rt></ruby>のヘリコプターが<ruby>家<rt>いえ</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちる",
+  "outline_with_ruby": "<p><ruby>佐賀県<rt>さがけん</rt></ruby><ruby>神埼市<rt>かんざきし</rt></ruby>で<ruby>５日<rt>いつか</rt></ruby><ruby>午後<rt>ごご</rt></ruby>４<ruby>時<rt>じ</rt></ruby>４０<ruby>分<rt>ぷん</rt></ruby>ごろ、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>自衛隊<rt>じえいたい</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'>ヘリコプター</a>が<ruby>家<rt>いえ</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちる<ruby>事故<rt>じこ</rt></ruby>がありました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180206/../20180206/K10011317081_1802061226_1802061227_01_03.jpg",
+  "news_web_movie_uri": "k10011317081_201802061226_201802061226.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011317081000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011317081000/k10011317081000.html"
+}

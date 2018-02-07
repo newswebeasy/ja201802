@@ -1,0 +1,64 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。",
+          "hyouki": [
+            "贈る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。",
+          "hyouki": [
+            "贈る"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ひな<ruby><rb>祭</rb><rt>まつ</rt></ruby>りにかざる<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。",
+          "hyouki": [
+            "雛人形"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>三月三日</rb><rt>さんがつみっか</rt></ruby>にする<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>の<ruby><rb>幸</rb><rt>しあわ</rt></ruby>せをいのるお<ruby><rb>祭</rb><rt>まつ</rt></ruby>り。ひな<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>をかざり、<ruby><rb>白酒</rb><rt>しろざけ</rt></ruby>や、あられ・ひしもち、<ruby><rb>桃</rb><rt>もも</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>などを<ruby><rb>供</rb><rt>そな</rt></ruby>える。<ruby><rb>桃</rb><rt>もも</rt></ruby>の<ruby><rb>節句</rb><rt>せっく</rt></ruby>。ひなの<ruby><rb>節句</rb><rt>せっく</rt></ruby>。",
+          "hyouki": [
+            "雛祭り"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。",
+          "hyouki": [
+            "贈る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。",
+          "hyouki": [
+            "贈る"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。",
+          "hyouki": [
+            "贈る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。",
+          "hyouki": [
+            "贈る"
+          ]
+        }
+      ]
+    }
+  }
+}

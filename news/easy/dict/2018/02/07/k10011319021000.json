@@ -1,0 +1,64 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地震</rb><rt>じしん</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさの<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "マグニチュード"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "コンクリートで<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>で、<ruby><rb>高級</rb><rt>こうきゅう</rt></ruby>な<ruby><rb>感</rb><rt>かん</rt></ruby>じがするアパート。",
+          "hyouki": [
+            "マンション"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ななめになる。",
+          "hyouki": [
+            "傾く"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>などが）ある<ruby><rb>方</rb><rt>ほう</rt></ruby>へ<ruby><rb>寄</rb><rt>よ</rt></ruby>る。",
+          "hyouki": [
+            "傾く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>日</rb><rt>ひ</rt></ruby>や<ruby><rb>月</rb><rt>つき</rt></ruby>が、<ruby><rb>西</rb><rt>にし</rt></ruby>にしずもうとする。",
+          "hyouki": [
+            "傾く"
+          ]
+        },
+        {
+          "def": "おとろえる。",
+          "hyouki": [
+            "傾く"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。",
+          "hyouki": [
+            "役所"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ]
+    }
+  }
+}

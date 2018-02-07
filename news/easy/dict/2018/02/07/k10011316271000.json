@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。",
+          "hyouki": [
+            "氷"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>進</rb><rt>すす</rt></ruby>んで<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>進路</rb><rt>しんろ</rt></ruby>。",
+          "hyouki": [
+            "コース"
+          ]
+        },
+        {
+          "def": "<ruby><rb>競走</rb><rt>きょうそう</rt></ruby>で、そこを<ruby><rb>通</rb><rt>とお</rt></ruby>るように<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>道</rb><rt>みち</rt></ruby>。",
+          "hyouki": [
+            "コース"
+          ]
+        },
+        {
+          "def": "<ruby><rb>学習</rb><rt>がくしゅう</rt></ruby>の<ruby><rb>内容</rb><rt>ないよう</rt></ruby>や<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。<ruby><rb>課程</rb><rt>かてい</rt></ruby>。",
+          "hyouki": [
+            "コース"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>雪</rb><rt>ゆき</rt></ruby>や<ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべらせて、<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "そり"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ]
+    }
+  }
+}

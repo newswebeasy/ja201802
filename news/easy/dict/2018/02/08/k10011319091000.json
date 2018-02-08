@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>から、<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>落</rb><rt>お</rt></ruby>ちる<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>流</rb><rt>なが</rt></ruby>れ。",
+          "hyouki": [
+            "滝"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。",
+          "hyouki": [
+            "凍る"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。",
+          "hyouki": [
+            "凍る"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。",
+          "hyouki": [
+            "氷"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>が<ruby><rb>美</rb><rt>うつく</rt></ruby>しかったり、<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>があったりして、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "観光地"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かい<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>重</rb><rt>かさ</rt></ruby>なってたまる。",
+          "hyouki": [
+            "積もる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じようなことが<ruby><rb>何度</rb><rt>なんど</rt></ruby>も<ruby><rb>重</rb><rt>かさ</rt></ruby>なって、だんだん<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "積もる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>皮</rb><rt>かわ</rt></ruby>やゴムで<ruby><rb>作</rb><rt>つく</rt></ruby>った、ひざの<ruby><rb>近</rb><rt>ちか</rt></ruby>くまである<ruby><rb>長</rb><rt>なが</rt></ruby>いくつ。",
+          "hyouki": [
+            "長靴"
+          ]
+        }
+      ]
+    }
+  }
+}

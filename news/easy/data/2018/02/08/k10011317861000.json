@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011317861000",
+  "news_prearranged_time": "2018-02-08 11:30:00",
+  "title": "小さいドローンでビルの地下にある管をチェックする",
+  "title_with_ruby": "<ruby>小<rt>ちい</rt></ruby>さいドローンでビルの<ruby>地下<rt>ちか</rt></ruby>にある<ruby>管<rt>くだ</rt></ruby>をチェックする",
+  "outline_with_ruby": "<p><ruby>三菱地所<rt>みつびしじしょ</rt></ruby>などは<ruby>６日<rt>むいか</rt></ruby>、<ruby>小<rt>ちい</rt></ruby>さいドローンを<ruby>使<rt>つか</rt></ruby>って、<ruby>東京<rt>とうきょう</rt></ruby>のビルの<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>地下<rt>ちか</rt></ruby></a>にある<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>管<rt>くだ</rt></ruby></a>などをチェックするテストを<ruby>行<rt>おこな</rt></ruby>いました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180206/../20180206/K10011317861_1802062015_1802062019_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011317861000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011317861000/k10011317861000.html"
+}

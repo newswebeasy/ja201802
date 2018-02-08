@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011319231000",
+  "news_prearranged_time": "2018-02-08 16:20:00",
+  "title": "雪の道で車を自動で運転する実験　人工衛星を使う",
+  "title_with_ruby": "<ruby>雪<rt>ゆき</rt></ruby>の<ruby>道<rt>みち</rt></ruby>で<ruby>車<rt>くるま</rt></ruby>を<ruby>自動<rt>じどう</rt></ruby>で<ruby>運転<rt>うんてん</rt></ruby>する<ruby>実験<rt>じっけん</rt></ruby>　<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>自動<rt>じどう</rt></ruby></a>で<ruby>運転<rt>うんてん</rt></ruby>する<ruby>車<rt>くるま</rt></ruby>は、カメラや<a href='javascript:void(0)' class='dicWin' id='id-0003'>センサー</a>を<ruby>使<rt>つか</rt></ruby>って、<ruby>道<rt>みち</rt></ruby>に<ruby>物<rt>もの</rt></ruby>がないかどうかや<ruby>道<rt>みち</rt></ruby>に<ruby>書<rt>か</rt></ruby>いてある<ruby>白<rt>しろ</rt></ruby>い<ruby>線<rt>せん</rt></ruby>などの<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>位置<rt>いち</rt></ruby></a>を<ruby>調<rt>しら</rt></ruby>べて<ruby>走<rt>はし</rt></ruby>ります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180207/../20180207/K10011319231_1802071601_1802071610_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011319231000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011319231000/k10011319231000.html"
+}

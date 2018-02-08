@@ -1,0 +1,116 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>下</rb><rt>した</rt></ruby>。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        },
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>世</rb><rt>よ</rt></ruby>。あの<ruby><rb>世</rb><rt>よ</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        },
+        {
+          "def": "<ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>の<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>穴</rb><rt>あな</rt></ruby>が<ruby><rb>空</rb><rt>あ</rt></ruby>いている、<ruby><rb>丸</rb><rt>まる</rt></ruby>くて<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>いもの。つつ。パイプ。",
+          "hyouki": [
+            "管"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "センサー"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。",
+          "hyouki": [
+            "自動"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>横</rb><rt>よこ</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。",
+          "hyouki": [
+            "幅"
+          ]
+        },
+        {
+          "def": "へだたり。<ruby><rb>開</rb><rt>ひら</rt></ruby>き。",
+          "hyouki": [
+            "幅"
+          ]
+        },
+        {
+          "def": "ゆとり。よゆう。",
+          "hyouki": [
+            "幅"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ]
+    }
+  }
+}

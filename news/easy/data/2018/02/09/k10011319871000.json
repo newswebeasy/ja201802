@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011319871000",
+  "news_prearranged_time": "2018-02-09 11:30:00",
+  "title": "奈良公園　鹿にかまれてけがをした人が増える",
+  "title_with_ruby": "<ruby>奈良<rt>なら</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>　<ruby>鹿<rt>しか</rt></ruby>にかまれてけがをした<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える",
+  "outline_with_ruby": "<p><ruby>奈良<rt>なら</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>鹿<rt>しか</rt></ruby></a>にかまれたり<ruby>強<rt>つよ</rt></ruby>く<ruby>押<rt>お</rt></ruby>されたりしてけがをした<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180208/../20180208/K10011319871_1802080454_1802080506_01_03.jpg",
+  "news_web_movie_uri": "k10011319871_201802080454_201802080506.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011319871000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011319871000/k10011319871000.html"
+}

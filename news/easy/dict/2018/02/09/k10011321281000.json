@@ -1,0 +1,177 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "とりやめになる。",
+          "hyouki": [
+            "流れる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>・<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>・<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>からとった、<ruby><rb>水</rb><rt>みず</rt></ruby>と<ruby><rb>混</rb><rt>ま</rt></ruby>ざらない、<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい<ruby><rb>液体</rb><rt>えきたい</rt></ruby>。",
+          "hyouki": [
+            "油"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>石油</rb><rt>せきゆ</rt></ruby>などを<ruby><rb>積</rb><rt>つ</rt></ruby>んで<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>船</rb><rt>ふね</rt></ruby>。<ruby><rb>油送船</rb><rt>ゆそうせん</rt></ruby>。",
+          "hyouki": [
+            "タンカー"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>入</rb><rt>はい</rt></ruby>る。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>がない。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>や<ruby><rb>月</rb><rt>つき</rt></ruby>が<ruby><rb>地平線</rb><rt>ちへいせん</rt></ruby>にかくれる。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "よくない<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "沈む"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>暖</rb><rt>あたた</rt></ruby>かな<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ、<ruby><rb>大</rb><rt>おお</rt></ruby>きなカメ。アカウミガメ・アオウミガメなどがいる。こうらは<ruby><rb>１</rb><rt>いち</rt></ruby>～<ruby><rb>２</rb><rt>に</rt></ruby>メートルにもなる。<ruby><rb>卵</rb><rt>たまご</rt></ruby>は、<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>がって<ruby><rb>砂浜</rb><rt>すなはま</rt></ruby>で<ruby><rb>産</rb><rt>う</rt></ruby>む。",
+          "hyouki": [
+            "海亀"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>が<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>るために、<ruby><rb>空気</rb><rt>くうき</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>ったり、はいたりすること。また、その<ruby><rb>空気</rb><rt>くうき</rt></ruby>。",
+          "hyouki": [
+            "息"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>皮</rb><rt>かわ</rt></ruby>やゴムで<ruby><rb>作</rb><rt>つく</rt></ruby>った、ひざの<ruby><rb>近</rb><rt>ちか</rt></ruby>くまである<ruby><rb>長</rb><rt>なが</rt></ruby>いくつ。",
+          "hyouki": [
+            "長靴"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>熱帯地方</rb><rt>ねったいちほう</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>える、ゴムの<ruby><rb>木</rb><rt>き</rt></ruby>のしるで<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。のび<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>みする。タイヤ、ボール、くつの<ruby><rb>底</rb><rt>そこ</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "ゴム"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "かたまったもの。",
+          "hyouki": [
+            "固まり",
+            "・塊"
+          ]
+        },
+        {
+          "def": "<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。<ruby><rb>群</rb><rt>む</rt></ruby>れ。",
+          "hyouki": [
+            "固まり",
+            "・塊"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>をそのことだけに<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "固まり",
+            "・塊"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "おけの<ruby><rb>形</rb><rt>かたち</rt></ruby>をした、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。つるが<ruby><rb>付</rb><rt>つ</rt></ruby>いて、<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>運</rb><rt>はこ</rt></ruby>びに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "バケツ"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>や<ruby><rb>布</rb><rt>ぬの</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>口</rb><rt>くち</rt></ruby>をしめるようにした<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "袋"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」に<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。",
+          "hyouki": [
+            "袋"
+          ]
+        }
+      ]
+    }
+  }
+}

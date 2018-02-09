@@ -1,0 +1,152 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "のどや<ruby><rb>気管</rb><rt>きかん</rt></ruby>などが、ウイルスによってただれる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。かぜに<ruby><rb>似</rb><rt>に</rt></ruby>ているが、<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>て、うつりやすい。<ruby><rb>流行性感冒</rb><rt>りゅうこうせいかんぼう</rt></ruby>。<ruby><rb>流感</rb><rt>りゅうかん</rt></ruby>。",
+          "hyouki": [
+            "インフルエンザ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>くはやること。はやり。",
+          "hyouki": [
+            "流行"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。",
+          "hyouki": [
+            "ウイルス"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "お<ruby><rb>面</rb><rt>めん</rt></ruby>。<ruby><rb>仮面</rb><rt>かめん</rt></ruby>。",
+          "hyouki": [
+            "マスク"
+          ]
+        },
+        {
+          "def": "ほこりなどを<ruby><rb>吸</rb><rt>す</rt></ruby>わないように、<ruby><rb>口</rb><rt>くち</rt></ruby>や<ruby><rb>鼻</rb><rt>はな</rt></ruby>をおおう<ruby><rb>布</rb><rt>ぬの</rt></ruby>。",
+          "hyouki": [
+            "マスク"
+          ]
+        },
+        {
+          "def": "ガスなどを<ruby><rb>吸</rb><rt>す</rt></ruby>わないように、<ruby><rb>消防士</rb><rt>しょうぼうし</rt></ruby>などが<ruby><rb>顔</rb><rt>かお</rt></ruby>につけるお<ruby><rb>面</rb><rt>めん</rt></ruby>。<ruby><rb>防毒面</rb><rt>ぼうどくめん</rt></ruby>。",
+          "hyouki": [
+            "マスク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、キャッチャーや<ruby><rb>球審</rb><rt>きゅうしん</rt></ruby>がかぶるもの。",
+          "hyouki": [
+            "マスク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>顔</rb><rt>かお</rt></ruby>。<ruby><rb>顔</rb><rt>かお</rt></ruby>だち。",
+          "hyouki": [
+            "マスク"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>を<ruby><rb>植</rb><rt>う</rt></ruby>え、<ruby><rb>築山</rb><rt>つきやま</rt></ruby>や<ruby><rb>池</rb><rt>いけ</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったりした、<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>庭</rb><rt>にわ</rt></ruby>。",
+          "hyouki": [
+            "庭園"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。",
+          "hyouki": [
+            "ランキング"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>い。<ruby><rb>平均</rb><rt>へいきん</rt></ruby>。",
+          "hyouki": [
+            "バランス"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>土地</rb><rt>とち</rt></ruby>の<ruby><rb>面積</rb><rt>めんせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「ha」。１ヘクタールは、１００アールで、<ruby><rb>一万平方</rb><rt>いちまんへいほう</rt></ruby>メートル。",
+          "hyouki": [
+            "ヘクタール"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "とりやめになる。",
+          "hyouki": [
+            "流れる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えたことや<ruby><rb>思</rb><rt>おも</rt></ruby>ったことを、ことば・<ruby><rb>身</rb><rt>み</rt></ruby>ぶり・<ruby><rb>文字</rb><rt>もじ</rt></ruby>・<ruby><rb>色</rb><rt>いろ</rt></ruby>・<ruby><rb>音</rb><rt>おと</rt></ruby>などで<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、その<ruby><rb>表</rb><rt>あらわ</rt></ruby>し<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "表現"
+          ]
+        }
+      ]
+    }
+  }
+}

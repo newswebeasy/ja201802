@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011322011000",
+  "news_prearranged_time": "2018-02-09 15:20:00",
+  "title": "インフルエンザの流行が続いている　１週間に２８２万人",
+  "title_with_ruby": "インフルエンザの<ruby>流行<rt>りゅうこう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている　１<ruby>週間<rt>しゅうかん</rt></ruby>に２８２<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>インフルエンザ</a>が<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>流行<rt>りゅうこう</rt></ruby></a>しています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180209/../20180209/K10011322011_1802090816_1802090817_01_02.jpg",
+  "news_web_movie_uri": "k10011322011_201802091217_201802091220.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011322011000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011322011000/k10011322011000.html"
+}

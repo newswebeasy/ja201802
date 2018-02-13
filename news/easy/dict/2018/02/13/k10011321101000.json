@@ -1,0 +1,54 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>公園</rb><rt>こうえん</rt></ruby>や<ruby><rb>庭</rb><rt>にわ</rt></ruby>にも<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。ソメイヨシノ・シダレザクラ・ヤマザクラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>春</rb><rt>はる</rt></ruby>、うすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の「<ruby><rb>国花</rb><rt>こっか</rt></ruby>」とされる。",
+          "hyouki": [
+            "桜"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって、こうだろうと<ruby><rb>考</rb><rt>かんが</rt></ruby>えること。または、その<ruby><rb>考</rb><rt>かんが</rt></ruby>え。",
+          "hyouki": [
+            "予想"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>南西部</rb><rt>なんせいぶ</rt></ruby>にある<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>福岡</rb><rt>ふくおか</rt></ruby>・<ruby><rb>佐賀</rb><rt>さが</rt></ruby>・<ruby><rb>長崎</rb><rt>ながさき</rt></ruby>・<ruby><rb>熊本</rb><rt>くまもと</rt></ruby>・<ruby><rb>大分</rb><rt>おおいた</rt></ruby>・<ruby><rb>宮崎</rb><rt>みやざき</rt></ruby>・<ruby><rb>鹿児島</rb><rt>かごしま</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の八<ruby><rb>県</rb><rt>けん</rt></ruby>がある。",
+          "hyouki": [
+            "九州地方"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>瀬戸内海</rb><rt>せとないかい</rt></ruby>をはさんで<ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>と<ruby><rb>向</rb><rt>む</rt></ruby>かい<ruby><rb>合</rb><rt>あ</rt></ruby>っている<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>島</rb><rt>しま</rt></ruby>。<ruby><rb>香川</rb><rt>かがわ</rt></ruby>・<ruby><rb>高知</rb><rt>こうち</rt></ruby>・<ruby><rb>愛媛</rb><rt>えひめ</rt></ruby>・<ruby><rb>徳島</rb><rt>とくしま</rt></ruby>の四<ruby><rb>県</rb><rt>けん</rt></ruby>がある。",
+          "hyouki": [
+            "四国地方"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。",
+          "hyouki": [
+            "気温"
+          ]
+        }
+      ]
+    }
+  }
+}

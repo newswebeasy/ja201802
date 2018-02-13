@@ -1,0 +1,56 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ななめになる。",
+          "hyouki": [
+            "傾く"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>などが）ある<ruby><rb>方</rb><rt>ほう</rt></ruby>へ<ruby><rb>寄</rb><rt>よ</rt></ruby>る。",
+          "hyouki": [
+            "傾く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>日</rb><rt>ひ</rt></ruby>や<ruby><rb>月</rb><rt>つき</rt></ruby>が、<ruby><rb>西</rb><rt>にし</rt></ruby>にしずもうとする。",
+          "hyouki": [
+            "傾く"
+          ]
+        },
+        {
+          "def": "おとろえる。",
+          "hyouki": [
+            "傾く"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>商店</rb><rt>しょうてん</rt></ruby>がたくさん<ruby><rb>並</rb><rt>なら</rt></ruby>んでいる<ruby><rb>通</rb><rt>とお</rt></ruby>り。",
+          "hyouki": [
+            "商店街"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>樹脂製</rb><rt>じゅしせい</rt></ruby>の<ruby><rb>容器</rb><rt>ようき</rt></ruby>。<ruby><rb>軽</rb><rt>かる</rt></ruby>くて<ruby><rb>丈夫</rb><rt>じょうぶ</rt></ruby>なので<ruby><rb>飲</rb><rt>の</rt></ruby>み<ruby><rb>物</rb><rt>もの</rt></ruby>などの<ruby><rb>容器</rb><rt>ようき</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>われる。ポリエチレンテレフタレートの<ruby><rb>頭文字</rb><rt>かしらもじ</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>って<ruby><rb>PET</rb><rt>ぺット</rt></ruby>という。",
+          "hyouki": [
+            "ペットボトル"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "缶"
+          ]
+        }
+      ]
+    }
+  }
+}

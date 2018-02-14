@@ -1,0 +1,90 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "かいた<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>を、<ruby><rb>動</rb><rt>うご</rt></ruby>きに<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>撮影</rb><rt>さつえい</rt></ruby>し、それを<ruby><rb>映</rb><rt>うつ</rt></ruby>して<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>いているように<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>映画</rb><rt>えいが</rt></ruby>。<ruby><rb>動画</rb><rt>どうが</rt></ruby>。アニメ。",
+          "hyouki": [
+            "アニメーション"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>弦楽器</rb><rt>げんがっき</rt></ruby>。<ruby><rb>胴</rb><rt>どう</rt></ruby>とよぶ<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>箱</rb><rt>はこ</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に、１３<ruby><rb>本</rb><rt>ぼん</rt></ruby>の<ruby><rb>弦</rb><rt>げん</rt></ruby>が<ruby><rb>張</rb><rt>は</rt></ruby>ってある。「つめ」をつけて<ruby><rb>糸</rb><rt>いと</rt></ruby>をはじき、<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "琴"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>楽器</rb><rt>がっき</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>竹</rb><rt>たけ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などの<ruby><rb>管</rb><rt>くだ</rt></ruby>に<ruby><rb>穴</rb><rt>あな</rt></ruby>をあけ、<ruby><rb>息</rb><rt>いき</rt></ruby>をふきこんで<ruby><rb>鳴</rb><rt>な</rt></ruby>らすもの。",
+          "hyouki": [
+            "笛"
+          ]
+        },
+        {
+          "def": "<ruby><rb>合図</rb><rt>あいず</rt></ruby>のために、ふいて<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>子</rb><rt>こ</rt></ruby>。ホイッスル。",
+          "hyouki": [
+            "笛"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>楽器</rb><rt>がっき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>をかなでること。",
+          "hyouki": [
+            "演奏"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>筆</rb><rt>ふで</rt></ruby>で、<ruby><rb>字</rb><rt>じ</rt></ruby>を<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>書</rb><rt>か</rt></ruby>く<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>。<ruby><rb>書</rb><rt>しょ</rt></ruby>。",
+          "hyouki": [
+            "書道"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>三本</rb><rt>さんぼん</rt></ruby>の<ruby><rb>弦</rb><rt>げん</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>り、ばちではじいて<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>楽器</rb><rt>がっき</rt></ruby>。",
+          "hyouki": [
+            "三味線"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>武士</rb><rt>ぶし</rt></ruby>。",
+          "hyouki": [
+            "侍"
+          ]
+        }
+      ]
+    }
+  }
+}

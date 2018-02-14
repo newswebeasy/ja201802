@@ -1,0 +1,118 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>裁判</rb><rt>さいばん</rt></ruby>で、うったえられたほうの<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "被告"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>刑務所</rb><rt>けいむしょ</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>罪</rb><rt>つみ</rt></ruby>をつぐなうために<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をさせること。",
+          "hyouki": [
+            "懲役"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>が、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>にもとづいて、それがよいか<ruby><rb>悪</rb><rt>わる</rt></ruby>いかを<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "裁判"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>や、<ruby><rb>人</rb><rt>ひと</rt></ruby>として<ruby><rb>守</rb><rt>まも</rt></ruby>らなければならないことに、そむいた<ruby><rb>行</rb><rt>おこな</rt></ruby>い。<ruby><rb>犯罪</rb><rt>はんざい</rt></ruby>。",
+          "hyouki": [
+            "罪"
+          ]
+        },
+        {
+          "def": "ばつ。",
+          "hyouki": [
+            "罪"
+          ]
+        },
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>いやりがなく、<ruby><rb>意地悪</rb><rt>いじわる</rt></ruby>なようす。",
+          "hyouki": [
+            "罪"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>けてしなければならない<ruby><rb>務</rb><rt>つと</rt></ruby>め。",
+          "hyouki": [
+            "責任"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>罰</rb><rt>ばつ</rt></ruby>として<ruby><rb>出</rb><rt>だ</rt></ruby>させるお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "罰金"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ]
+    }
+  }
+}

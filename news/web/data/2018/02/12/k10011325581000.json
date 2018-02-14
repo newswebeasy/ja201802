@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011325581000/k10011325581000.html",
+      "title": "神奈川県小田原市で「梅まつり」 梅の花がきれいに咲く",
+      "time": "NEWSWEB EASY 2月14日",
+      "datetime": "2018-02-14"
+    }
+  ],
   "word": [],
   "news_id": "k10011325581000",
   "yyyy": "2018",

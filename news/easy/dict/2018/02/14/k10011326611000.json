@@ -1,0 +1,46 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>が<ruby><rb>港</rb><rt>みなと</rt></ruby>にとまる。",
+          "hyouki": [
+            "泊"
+          ]
+        },
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>でない<ruby><rb>所</rb><rt>ところ</rt></ruby>にとまる。",
+          "hyouki": [
+            "泊"
+          ]
+        },
+        {
+          "def": "あっさりしている。",
+          "hyouki": [
+            "泊"
+          ]
+        },
+        {
+          "def": "とまった<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "泊"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。",
+          "hyouki": [
+            "平均"
+          ]
+        },
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。",
+          "hyouki": [
+            "平均"
+          ]
+        }
+      ]
+    }
+  }
+}

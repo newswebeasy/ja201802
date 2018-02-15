@@ -1,0 +1,100 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>・ピストルなど、<ruby><rb>弾丸</rb><rt>だんがん</rt></ruby>をうつ<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。",
+          "hyouki": [
+            "銃"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "（<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。",
+          "hyouki": [
+            "撃つ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "（<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。",
+          "hyouki": [
+            "撃つ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>放</rb><rt>はな</rt></ruby>つ。うつ。",
+          "hyouki": [
+            "発"
+          ]
+        },
+        {
+          "def": "<ruby><rb>出</rb><rt>だ</rt></ruby>す。<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "発"
+          ]
+        },
+        {
+          "def": "<ruby><rb>明</rb><rt>あき</rt></ruby>らかになる。",
+          "hyouki": [
+            "発"
+          ]
+        },
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>ける。さかんになる。",
+          "hyouki": [
+            "発"
+          ]
+        },
+        {
+          "def": "<ruby><rb>出</rb><rt>で</rt></ruby>かける。たつ。",
+          "hyouki": [
+            "発"
+          ]
+        },
+        {
+          "def": "<ruby><rb>弾丸</rb><rt>だんがん</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "発"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に。思いがけなく。",
+          "hyouki": [
+            "突然"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "（<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。",
+          "hyouki": [
+            "撃つ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ふだんあまり<ruby><rb>使</rb><rt>つか</rt></ruby>わない<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>などをしまっておく<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "物置"
+          ]
+        }
+      ]
+    }
+  }
+}

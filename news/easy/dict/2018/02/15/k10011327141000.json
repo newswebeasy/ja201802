@@ -1,0 +1,92 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ものごとを<ruby><rb>成</rb><rt>な</rt></ruby>しとげることのできる<ruby><rb>力</rb><rt>ちから</rt></ruby>。",
+          "hyouki": [
+            "能力"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。",
+          "hyouki": [
+            "役所"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>・<ruby><rb>運動</rb><rt>うんどう</rt></ruby>・<ruby><rb>病気</rb><rt>びょうき</rt></ruby>などにたえられる、<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>。",
+          "hyouki": [
+            "体力"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>をみんな<ruby><rb>合</rb><rt>あ</rt></ruby>わせること。また、<ruby><rb>合</rb><rt>あ</rt></ruby>わせた<ruby><rb>数</rb><rt>かず</rt></ruby>。",
+          "hyouki": [
+            "合計"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>通</rb><rt>かよ</rt></ruby>っている<ruby><rb>子</rb><rt>こ</rt></ruby>ども。",
+          "hyouki": [
+            "小学生"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>の<ruby><rb>指</rb><rt>ゆび</rt></ruby>を<ruby><rb>全部</rb><rt>ぜんぶ</rt></ruby>、<ruby><rb>内側</rb><rt>うちがわ</rt></ruby>に<ruby><rb>曲</rb><rt>ま</rt></ruby>げる。また、<ruby><rb>曲</rb><rt>ま</rt></ruby>げて<ruby><rb>物</rb><rt>もの</rt></ruby>をつかむ。",
+          "hyouki": [
+            "握る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のものにする。",
+          "hyouki": [
+            "握る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>知</rb><rt>し</rt></ruby>る。つかむ。",
+          "hyouki": [
+            "握る"
+          ]
+        },
+        {
+          "def": "にぎり<ruby><rb>飯</rb><rt>めし</rt></ruby>やにぎりずしを<ruby><rb>作</rb><rt>つく</rt></ruby>る。",
+          "hyouki": [
+            "握る"
+          ]
+        }
+      ]
+    }
+  }
+}

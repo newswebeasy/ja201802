@@ -1,0 +1,78 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>糸</rb><rt>いと</rt></ruby>をつけて<ruby><rb>布</rb><rt>ぬの</rt></ruby>などをぬう、<ruby><rb>細</rb><rt>ほそ</rt></ruby>くて<ruby><rb>先</rb><rt>さき</rt></ruby>のとがったもの。",
+          "hyouki": [
+            "針"
+          ]
+        },
+        {
+          "def": "さいほう。",
+          "hyouki": [
+            "針"
+          ]
+        },
+        {
+          "def": "<ruby><rb>細</rb><rt>ほそ</rt></ruby>くて<ruby><rb>先</rb><rt>さき</rt></ruby>のとがったもの。",
+          "hyouki": [
+            "針"
+          ]
+        },
+        {
+          "def": "<ruby><rb>釣</rb><rt>つ</rt></ruby>り<ruby><rb>針</rb><rt>ばり</rt></ruby>。",
+          "hyouki": [
+            "針"
+          ]
+        },
+        {
+          "def": "とげとげしい<ruby><rb>感</rb><rt>かん</rt></ruby>じ。",
+          "hyouki": [
+            "針"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>や<ruby><rb>湖</rb><rt>みずうみ</rt></ruby>で、<ruby><rb>岸</rb><rt>きし</rt></ruby>から<ruby><rb>遠</rb><rt>とお</rt></ruby>くはなれた<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "沖"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "とりやめになる。",
+          "hyouki": [
+            "流れる"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。",
+          "hyouki": [
+            "行方不明"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「イラストレーション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>本</rb><rt>ほん</rt></ruby>・<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などで、<ruby><rb>文</rb><rt>ぶん</rt></ruby>を<ruby><rb>説明</rb><rt>せつめい</rt></ruby>したり、<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>立</rb><rt>た</rt></ruby>てたりする<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>図</rb><rt>ず</rt></ruby>。さし<ruby><rb>絵</rb><rt>え</rt></ruby>。",
+          "hyouki": [
+            "イラスト"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>忘</rb><rt>わす</rt></ruby>れないように<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、その<ruby><rb>紙</rb><rt>かみ</rt></ruby>やノート。<ruby><rb>覚</rb><rt>おぼ</rt></ruby>え<ruby><rb>書</rb><rt>が</rt></ruby>き。",
+          "hyouki": [
+            "メモ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あるものごとに、<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>動</rb><rt>うご</rt></ruby>かされること。",
+          "hyouki": [
+            "感動"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>味方</rb><rt>みかた</rt></ruby>を、はげますこと。",
+          "hyouki": [
+            "応援"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>をかして<ruby><rb>助</rb><rt>たす</rt></ruby>けること。",
+          "hyouki": [
+            "応援"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "１１<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>２</rb><rt>に</rt></ruby>チームが、<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、ボールを<ruby><rb>相手</rb><rt>あいて</rt></ruby>のゴールにけりこんで<ruby><rb>得点</rb><rt>とくてん</rt></ruby>をきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。フットボール。",
+          "hyouki": [
+            "サッカー"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばんすぐれた<ruby><rb>記録</rb><rt>きろく</rt></ruby>。",
+          "hyouki": [
+            "世界記録"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        },
+        {
+          "def": "「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>生</rb><rt>う</rt></ruby>まれてから<ruby><rb>今</rb><rt>いま</rt></ruby>までの<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。とし。",
+          "hyouki": [
+            "年齢"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "にっこり<ruby><rb>笑</rb><rt>わら</rt></ruby>っている<ruby><rb>顔</rb><rt>かお</rt></ruby>。",
+          "hyouki": [
+            "笑顔"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "あることを<ruby><rb>証明</rb><rt>しょうめい</rt></ruby>するための<ruby><rb>書類</rb><rt>しょるい</rt></ruby>。",
+          "hyouki": [
+            "証書"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。",
+          "hyouki": [
+            "記録"
+          ]
+        },
+        {
+          "def": "<ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。",
+          "hyouki": [
+            "記録"
+          ]
+        }
+      ]
+    }
+  }
+}

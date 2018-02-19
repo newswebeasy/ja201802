@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011333051000",
+  "news_prearranged_time": "2018-02-19 17:05:00",
+  "title": "フィギュアスケートの羽生選手が金メダル　宇野選手は銀",
+  "title_with_ruby": "フィギュアスケートの<ruby>羽生<rt>はにゅう</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダル　<ruby>宇野<rt>うの</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>銀<rt>ぎん</rt></ruby>",
+  "outline_with_ruby": "<p>ピョンチャンオリンピックで１６<ruby>日<rt>にち</rt></ruby>と１７<ruby>日<rt>にち</rt></ruby>に、<a href='javascript:void(0)' class='dicWin' id='id-0000'>フィギュアスケート</a>の<a href='javascript:void(0)' class='dicWin' id='id-0005'><ruby>男子<rt>だんし</rt></ruby></a>の<ruby>試合<rt>しあい</rt></ruby>がありました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180217/../20180217/K10011333051_1802171416_1802171417_01_02.jpg",
+  "news_web_movie_uri": "k10011333051_201802171753_201802171755.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011333051000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011333051000/k10011333051000.html"
+}

@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011335581000",
+  "news_prearranged_time": "2018-02-21 11:30:00",
+  "title": "日本の近くの海で珍しいコククジラが泳いでいた",
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>海<rt>うみ</rt></ruby>で<ruby>珍<rt>めずら</rt></ruby>しいコククジラが<ruby>泳<rt>およ</rt></ruby>いでいた",
+  "outline_with_ruby": "<p><ruby>１０日<rt>とおか</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>南<rt>みなみ</rt></ruby>に３６０ｋｍぐらいの<ruby>青ヶ島<rt>あおがしま</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>海<rt>うみ</rt></ruby>で、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>鯨<rt>くじら</rt></ruby></a>が<ruby>泳<rt>およ</rt></ruby>いでいました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180220/../20180220/K10011335581_1802200630_1802200632_01_03.jpg",
+  "news_web_movie_uri": "k10011335581_201802200630_201802200631.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011335581000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011335581000/k10011335581000.html"
+}

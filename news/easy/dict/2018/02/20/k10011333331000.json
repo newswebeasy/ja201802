@@ -1,0 +1,36 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>忍術</rb><rt>にんじゅつ</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。しのびの<ruby><rb>者</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "忍者"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ]
+    }
+  }
+}

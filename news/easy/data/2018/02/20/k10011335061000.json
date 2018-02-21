@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011335061000",
+  "news_prearranged_time": "2018-02-20 11:30:00",
+  "title": "東京の足立区で銭湯のよさを紹介する展示会",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>足立区<rt>あだちく</rt></ruby>で<ruby>銭湯<rt>せんとう</rt></ruby>のよさを<ruby>紹介<rt>しょうかい</rt></ruby>する<ruby>展示<rt>てんじ</rt></ruby><ruby>会<rt>かい</rt></ruby>",
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>足立区<rt>あだちく</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>区役所<rt>くやくしょ</rt></ruby></a>で、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>銭湯<rt>せんとう</rt></ruby></a>のよさを<ruby>紹介<rt>しょうかい</rt></ruby>する<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>展示<rt>てんじ</rt></ruby></a><ruby>会<rt>かい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>っています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180219/../20180219/K10011335061_1802191418_1802191445_01_03.jpg",
+  "news_web_movie_uri": "k10011335061_201802191418_201802191418.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011335061000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011335061000/k10011335061000.html"
+}

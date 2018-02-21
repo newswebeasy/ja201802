@@ -1,0 +1,128 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>大形</rb><rt>おおがた</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。シロナガスクジラ・マッコウクジラ・セミクジラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>哺乳類</rb><rt>ほにゅうるい</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>は<ruby><rb>乳</rb><rt>ちち</rt></ruby>を<ruby><rb>飲</rb><rt>の</rt></ruby>んで<ruby><rb>育</rb><rt>そだ</rt></ruby>つ。",
+          "hyouki": [
+            "鯨"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>肉</rb><rt>にく</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まって、<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がったもの。たんこぶ。",
+          "hyouki": [
+            "こぶ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>に<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がったもの。",
+          "hyouki": [
+            "こぶ"
+          ]
+        },
+        {
+          "def": "じゃまになるもの。",
+          "hyouki": [
+            "こぶ"
+          ]
+        },
+        {
+          "def": "ひもなどの<ruby><rb>結</rb><rt>むす</rt></ruby>び<ruby><rb>目</rb><rt>め</rt></ruby>。",
+          "hyouki": [
+            "こぶ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>が<ruby><rb>泳</rb><rt>およ</rt></ruby>ぐときに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなせんすのような<ruby><rb>形</rb><rt>かたち</rt></ruby>をしたもの。<ruby><rb>背</rb><rt>せ</rt></ruby>びれ・<ruby><rb>尾</rb><rt>お</rt></ruby>びれ・<ruby><rb>胸</rb><rt>むな</rt></ruby>びれ・<ruby><rb>腹</rb><rt>はら</rt></ruby>びれ・しりびれがある。",
+          "hyouki": [
+            "ひれ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "太平洋"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "いくつもあること。たくさん。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。",
+          "hyouki": [
+            "数"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "あたま。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ<ruby><rb>者</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "はじめ。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "<ruby><rb>辺</rb><rt>あた</rt></ruby>り。<ruby><rb>付近</rb><rt>ふきん</rt></ruby>。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "けものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "頭"
+          ]
+        }
+      ]
+    }
+  }
+}

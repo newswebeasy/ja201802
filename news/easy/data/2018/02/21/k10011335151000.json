@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011335151000",
+  "news_prearranged_time": "2018-02-21 11:30:00",
+  "title": "スポーツの試合などを３Ｄで見せる技術を紹介",
+  "title_with_ruby": "スポーツの<ruby>試合<rt>しあい</rt></ruby>などを３Ｄで<ruby>見<rt>み</rt></ruby>せる<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>",
+  "outline_with_ruby": "<p>ＮＴＴは、スポーツの<ruby>試合<rt>しあい</rt></ruby>などを<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>で３Ｄで<ruby>見<rt>み</rt></ruby>せる<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180219/../20180219/K10011335151_1802191627_1802191653_01_02.jpg",
+  "news_web_movie_uri": "k10011335151_201802191817_201802191818.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011335151000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011335151000/k10011335151000.html"
+}

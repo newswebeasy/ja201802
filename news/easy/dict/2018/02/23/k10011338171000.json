@@ -1,0 +1,110 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>指図</rb><rt>さしず</rt></ruby>や<ruby><rb>取</rb><rt>と</rt></ruby>りしまりなどをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "監督"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>原子核分裂</rb><rt>げんしかくぶんれつ</rt></ruby>によって<ruby><rb>起</rb><rt>お</rt></ruby>こる、ものすごい<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>殺</rb><rt>ころ</rt></ruby>す。<ruby><rb>原爆</rb><rt>げんばく</rt></ruby>。",
+          "hyouki": [
+            "原子爆弾"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "育つ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。",
+          "hyouki": [
+            "育つ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>悪性</rb><rt>あくせい</rt></ruby>のはれものができる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にできたがん<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>がどんどん<ruby><rb>増</rb><rt>ふ</rt></ruby>えて<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>をあたえる。",
+          "hyouki": [
+            "がん"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "１９３９<ruby><rb>年</rb><rt>ねん</rt></ruby>から１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>まで、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>・ドイツ・イタリアが、イギリス・フランス・アメリカ・ソ<ruby><rb>連</rb><rt>れん</rt></ruby>・<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>などの<ruby><rb>連合国</rb><rt>れんごうこく</rt></ruby>と<ruby><rb>戦</rb><rt>たたか</rt></ruby>った<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>昭和</rb><rt>しょうわ</rt></ruby><ruby><rb>２０年</rb><rt>にじゅうねん</rt></ruby>）<ruby><rb>８月</rb><rt>はちがつ</rt></ruby><ruby><rb>１５</rb><rt>じゅうご</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby>に<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>が<ruby><rb>降伏</rb><rt>こうふく</rt></ruby>して<ruby><rb>終</rb><rt>お</rt></ruby>わった。",
+          "hyouki": [
+            "第二次世界大戦"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>作品</rb><rt>さくひん</rt></ruby>にかかれていることの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。また、<ruby><rb>作品</rb><rt>さくひん</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になっている<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>主題</rb><rt>しゅだい</rt></ruby>。",
+          "hyouki": [
+            "テーマ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>論文</rb><rt>ろんぶん</rt></ruby>や、<ruby><rb>演説</rb><rt>えんぜつ</rt></ruby>の<ruby><rb>題目</rb><rt>だいもく</rt></ruby>。",
+          "hyouki": [
+            "テーマ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>曲</rb><rt>きょく</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となっているメロディー。",
+          "hyouki": [
+            "テーマ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>調査</rb><rt>ちょうさ</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>・<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くため、<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>会</rb><rt>あ</rt></ruby>って<ruby><rb>話</rb><rt>はなし</rt></ruby>を<ruby><rb>聞</rb><rt>き</rt></ruby>くこと。",
+          "hyouki": [
+            "インタビュー"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>劇</rb><rt>げき</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "劇団"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。",
+          "hyouki": [
+            "平和"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。",
+          "hyouki": [
+            "平和"
+          ]
+        }
+      ]
+    }
+  }
+}

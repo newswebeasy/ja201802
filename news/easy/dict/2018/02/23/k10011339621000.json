@@ -1,0 +1,132 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。",
+          "hyouki": [
+            "禁止"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。",
+          "hyouki": [
+            "違反"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にすみ、<ruby><rb>貝</rb><rt>かい</rt></ruby>がらを<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。アサリ・サザエ・タニシなど。",
+          "hyouki": [
+            "貝"
+          ]
+        },
+        {
+          "def": "<ruby><rb>貝</rb><rt>かい</rt></ruby>がら。",
+          "hyouki": [
+            "貝"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>海</rb><rt>うみ</rt></ruby>・<ruby><rb>湖</rb><rt>みずうみ</rt></ruby>などでとれる、<ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>貝</rb><rt>かい</rt></ruby>・<ruby><rb>海藻</rb><rt>かいそう</rt></ruby>など。",
+          "hyouki": [
+            "水産物"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>原子核</rb><rt>げんしかく</rt></ruby>がこわれたり（<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>）、とけあったり（<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>）するときに<ruby><rb>出</rb><rt>で</rt></ruby>る、ものすごく<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>。<ruby><rb>原子</rb><rt>げんし</rt></ruby>エネルギー。",
+          "hyouki": [
+            "原子力"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "発電所"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ウランやラジウムなどの<ruby><rb>放射性</rb><rt>ほうしゃせい</rt></ruby><ruby><rb>元素</rb><rt>げんそ</rt></ruby>がこわれて、ほかの<ruby><rb>元素</rb><rt>げんそ</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>わるときに<ruby><rb>出</rb><rt>だ</rt></ruby>すもの。<ruby><rb>大量</rb><rt>たいりょう</rt></ruby>に<ruby><rb>浴</rb><rt>あ</rt></ruby>びると<ruby><rb>有害</rb><rt>ゆうがい</rt></ruby>である。",
+          "hyouki": [
+            "放射線"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>に<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>て、よい<ruby><rb>悪</rb><rt>わる</rt></ruby>いを<ruby><rb>決</rb><rt>き</rt></ruby>めてもらう。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>によびかける。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>痛</rb><rt>いた</rt></ruby>みなどを<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>言</rb><rt>い</rt></ruby>う。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "あるやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "訴える"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>事件</rb><rt>じけん</rt></ruby>や<ruby><rb>問題</rb><rt>もんだい</rt></ruby>がうまくかたづくこと。",
+          "hyouki": [
+            "解決"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "あるものとほかのものとの<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>差</rb><rt>さ</rt></ruby>をつけて、あつかい<ruby><rb>方</rb><rt>かた</rt></ruby>をちがわせること。",
+          "hyouki": [
+            "差別"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>められていること。<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>習慣</rb><rt>しゅうかん</rt></ruby>。",
+          "hyouki": [
+            "決まり"
+          ]
+        },
+        {
+          "def": "しめくくり。おさまり。",
+          "hyouki": [
+            "決まり"
+          ]
+        }
+      ]
+    }
+  }
+}

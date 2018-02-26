@@ -1,0 +1,140 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ジェットエンジンで<ruby><rb>飛</rb><rt>と</rt></ruby>ぶ<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>。",
+          "hyouki": [
+            "ジェット機"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "とき。きっかけ。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動</rb><rt>うご</rt></ruby>き。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "はたらき。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "「<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。また、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "機"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>・<ruby><rb>船</rb><rt>ふね</rt></ruby>・<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などを<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>発動機</rb><rt>はつどうき</rt></ruby>。",
+          "hyouki": [
+            "エンジン"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "（<ruby><rb>空</rb><rt>そら</rt></ruby>を<ruby><rb>飛</rb><rt>と</rt></ruby>ぶための）<ruby><rb>鳥</rb><rt>とり</rt></ruby>の<ruby><rb>羽</rb><rt>はね</rt></ruby>。",
+          "hyouki": [
+            "翼"
+          ]
+        },
+        {
+          "def": "<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>のはね。",
+          "hyouki": [
+            "翼"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。",
+          "hyouki": [
+            "スピード"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ヨーロッパ"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "アジアの<ruby><rb>南東部</rb><rt>なんとうぶ</rt></ruby>。ベトナム・ラオス・カンボジア・マレーシア・タイ・ミャンマー・インドネシア・フィリピンなどの<ruby><rb>国</rb><rt>くに</rt></ruby>がある。",
+          "hyouki": [
+            "東南アジア"
+          ]
+        }
+      ]
+    }
+  }
+}

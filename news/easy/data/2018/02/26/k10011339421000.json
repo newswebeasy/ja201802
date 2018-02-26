@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011339421000",
+  "news_prearranged_time": "2018-02-26 11:30:00",
+  "title": "「はしか」になった人がヨーロッパで４倍になる",
+  "title_with_ruby": "「はしか」になった<ruby>人<rt>ひと</rt></ruby>がヨーロッパで４<ruby>倍<rt>ばい</rt></ruby>になる",
+  "outline_with_ruby": "<p>「はしか」は<ruby>熱<rt>ねつ</rt></ruby>が<ruby>出<rt>で</rt></ruby>たり<ruby>体<rt>からだ</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>くて<ruby>小<rt>ちい</rt></ruby>さい<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>発疹<rt>はっしん</rt></ruby></a>が<ruby>出<rt>で</rt></ruby>たりする<ruby>病気<rt>びょうき</rt></ruby>で、<a href='javascript:void(0)' class='dicWin' id='id-0002'>ウイルス</a>でうつります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180222/../20180222/K10011339421_1802230656_1802230704_01_03.jpg",
+  "news_web_movie_uri": "k10011339421_201802230656_201802230704.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011339421000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011339421000/k10011339421000.html"
+}

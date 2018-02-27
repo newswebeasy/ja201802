@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011343261000",
+  "news_prearranged_time": "2018-02-27 11:30:00",
+  "title": "神奈川県の警察がＡＩを使って事件や事故を予測する計画",
+  "title_with_ruby": "<ruby>神奈川県<rt>かながわけん</rt></ruby>の<ruby>警察<rt>けいさつ</rt></ruby>がＡＩを<ruby>使<rt>つか</rt></ruby>って<ruby>事件<rt>じけん</rt></ruby>や<ruby>事故<rt>じこ</rt></ruby>を<ruby>予測<rt>よそく</rt></ruby>する<ruby>計画<rt>けいかく</rt></ruby>",
+  "outline_with_ruby": "<p><ruby>神奈川県<rt>かながわけん</rt></ruby>の<ruby>警察<rt>けいさつ</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>警察<rt>けいさつ</rt></ruby>では<ruby>初<rt>はじ</rt></ruby>めてコンピューターのＡＩの<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>事件<rt>じけん</rt></ruby></a>や<ruby>事故<rt>じこ</rt></ruby>を<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>予測<rt>よそく</rt></ruby></a>する<a href='javascript:void(0)' class='dicWin' id='id-0002'>システム</a>をつくることになりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180226/../20180226/K10011343261_1802260630_1802260632_01_03.jpg",
+  "news_web_movie_uri": "k10011343261_201802260630_201802260632.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011343261000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011343261000/k10011343261000.html"
+}

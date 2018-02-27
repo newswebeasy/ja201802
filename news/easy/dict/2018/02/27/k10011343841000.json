@@ -1,0 +1,118 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>・ガス・<ruby><rb>石油</rb><rt>せきゆ</rt></ruby>などをためておく、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "タンク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦車</rb><rt>せんしゃ</rt></ruby>。",
+          "hyouki": [
+            "タンク"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>・<ruby><rb>船</rb><rt>ふね</rt></ruby>・<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などを<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>発動機</rb><rt>はつどうき</rt></ruby>。",
+          "hyouki": [
+            "エンジン"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>・<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>・<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>からとった、<ruby><rb>水</rb><rt>みず</rt></ruby>と<ruby><rb>混</rb><rt>ま</rt></ruby>ざらない、<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい<ruby><rb>液体</rb><rt>えきたい</rt></ruby>。",
+          "hyouki": [
+            "油"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>漁民</rb><rt>ぎょみん</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>助</rb><rt>たす</rt></ruby>け<ruby><rb>合</rb><rt>あ</rt></ruby>いの<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組合員</rb><rt>くみあいいん</rt></ruby>のために<ruby><rb>協同</rb><rt>きょうどう</rt></ruby>で<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>買</rb><rt>か</rt></ruby>ったり、とったり<ruby><rb>作</rb><rt>つく</rt></ruby>ったりしたものを<ruby><rb>販売</rb><rt>はんばい</rt></ruby>したりする。また、お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>預</rb><rt>あず</rt></ruby>かったり、<ruby><rb>貸</rb><rt>か</rt></ruby>したりもする。<ruby><rb>漁協</rb><rt>ぎょきょう</rt></ruby>。<ruby><rb>J</rb><rt>ジェー</rt></ruby><ruby><rb>F</rb><rt>エフ</rt></ruby>。",
+          "hyouki": [
+            "漁業協同組合"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>川</rb><rt>かわ</rt></ruby>や<ruby><rb>湖</rb><rt>みずうみ</rt></ruby>にすむ<ruby><rb>黒</rb><rt>くろ</rt></ruby>くて<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>二枚貝</rb><rt>にまいがい</rt></ruby>。",
+          "hyouki": [
+            "蜆"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>などをとること。",
+          "hyouki": [
+            "漁"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "もうけがなくなる。<ruby><rb>失</rb><rt>うしな</rt></ruby>う。",
+          "hyouki": [
+            "損"
+          ]
+        },
+        {
+          "def": "こわす。",
+          "hyouki": [
+            "損"
+          ]
+        },
+        {
+          "def": "むだ。",
+          "hyouki": [
+            "損"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>先頭</rb><rt>せんとう</rt></ruby>。<ruby><rb>真</rb><rt>ま</rt></ruby>っ<ruby><rb>先</rb><rt>さき</rt></ruby>。<ruby><rb>一番</rb><rt>いちばん</rt></ruby>。",
+          "hyouki": [
+            "トップ"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>町</rb><rt>まち</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "町長"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ]
+    }
+  }
+}
